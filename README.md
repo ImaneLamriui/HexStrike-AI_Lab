@@ -54,5 +54,12 @@ git clone https://github.com/0x4m4/hexstrike-ai.git
 
 
 
-4. Probé ejemplos de pentesting automatizado, análisis de aplicaciones web y resolución de CTFs para verificar su funcionamiento.
+### 🔹 Agentes de HexStrike AI explorados
+
+- **Browser Agent**: Agente para inspección web automatizada, alternativa a Burp Suite.  
+- Arquitectura MCP Client: Gestión de comunicación entre agentes y servidor HexStrike.  
+- Observación: agentes listados en el script, mostrando sus funcionalidades y capacidades de automatización.
+
+  <img src="10-hex.png">
+
 
