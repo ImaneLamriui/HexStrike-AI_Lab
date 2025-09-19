@@ -60,6 +60,6 @@ git clone https://github.com/0x4m4/hexstrike-ai.git
 - Arquitectura MCP Client: Gestión de comunicación entre agentes y servidor HexStrike.  
 - Observación: agentes listados en el script, mostrando sus funcionalidades y capacidades de automatización.
 
-  <img src="10-hex.png">
+  <img src="Agents.png">
 
 
