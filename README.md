@@ -1,7 +1,5 @@
 # HexStrike AI v6.0 🚀
 
-(https://raw.githubusercontent.com/0x4m4/hexstrike-ai/main/assets/logo.png) <!-- Puedes reemplazar con la URL de la imagen oficial -->
-
 HexStrike AI v6.0 es una **plataforma de seguridad ofensiva** que combina **herramientas profesionales** con **agentes de IA autónomos** para ofrecer pruebas de seguridad completas.  
 
 ---
