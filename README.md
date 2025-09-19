@@ -30,11 +30,13 @@ HexStrike AI v6.0 es una **plataforma de seguridad ofensiva** que combina **herr
 ```bash
 git clone https://github.com/0x4m4/hexstrike-ai.git
 
-<img src="1-hex">
+<img src="1-hex.png">
+
+```
 
 2. Entré en el directorio y revisé los archivos de instalación.
 
-<img src="2-hex">
+<img src="2-hex.png">
 
 3. Seguí los pasos del tutorial oficial para instalar dependencias y ejecutar los agentes de IA.
 
